@@ -8,6 +8,8 @@ public class Sumof2no {
 		
 		Scanner a = new Scanner(System.in);
 		
+		System.out.println("This was edited ");
+		
 		System.out.println("Enter first no. : ");
 		int i=a.nextInt();
 		
